@@ -30,6 +30,7 @@ This repo does not contain any source code. It is just used to release binary fi
     | ServoK210  | 1.0.0   |
     | SimpleList | 1.0.1   |
     | avr-stl    | 1.0.1   |
+    | otto       | 13.0.0  |
 
 - Python
 
